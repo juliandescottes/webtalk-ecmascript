@@ -1,0 +1,30 @@
+[{
+	template : 'normal',
+	title : 'Property Descriptor',
+	items : []
+},{
+	items : 'Object.defineProperty(obj, name, descriptor)'
+},{
+	items : 'enumerable : true/false'
+},{
+	items : 'writable : true/false'
+},{
+	items : 'configurable : true/false'
+},
+{
+	template : 'pic',
+	picture : 'images/metaobjects1.png'
+},
+{
+	picture : 'images/metaobjects2.png'
+},
+{	template : 'normal',
+	items : 'Alternatively, use get and set functions as descriptor'
+},{
+	items : 'Can not be used alongside writable'
+},{
+	items : 'Can be used with enumerable and configurable'
+},{
+	template : 'pic',
+	picture : 'images/metaobjectsget.png'
+}]

@@ -1,0 +1,21 @@
+[{
+	title : 'ECMAScript History',
+	template : 'normal',
+	items : [
+		'Netscape creates JavaScript in 1996',
+		'Microsoft creates JScript the same year',
+		'Netscape submits JavaScript to ECMA for standardisation'
+	]
+},{
+	items :	'Of course they couldn\'t agree on a name for the language so ...'
+},
+{
+	template : 'quote',
+	quote : 'They called it ECMAScript',
+	picture : 'images/facepalm.png'
+},
+{
+	author : 'Brendan Eich',
+	quote : 'ECMAScript was always an unwanted trade name that sounds like a skin disease.',
+	picture : 'images/brendaneich.jpg'
+}]

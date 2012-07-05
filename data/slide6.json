@@ -1,0 +1,17 @@
+[{
+	title : 'Why should you care',
+	template : 'normal',
+	items : []
+},{
+	items : 'It is a standard'
+},{
+	items : 'JavaScript 1.8.5 (FF4) is ES5 compliant'
+},{
+	items : 'V8 (Chrome + Node) is ES5 compliant'
+},{
+	items : 'IE9 is (somewhat) ES5 compliant'
+},{
+	items :	'IE10 is ES5 compliant'
+},{
+	items : 'Opera is ES5 compliant'
+}]

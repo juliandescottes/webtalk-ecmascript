@@ -1,0 +1,24 @@
+[{
+	title : 'Other Extras',
+	template : 'normal',
+	items : []
+},{
+	items : 'JSON.parse(text, translate)'
+},{
+	items : 'JSON.stringify(object, translate, indent)'
+},{
+	overrideItems : true,
+	items : 'Function.prototype.bind(scope, arg1, arg2 ...)'
+},{
+	items : 'equivalent call to myMethod.call(scope, [bindArgs], [callArgs])'
+},{
+	overrideItems : true,
+	items : 'Date.prototype.toISOString()'
+},{
+	items : 'Native trim() on strings'
+},{
+	template : 'pictures',
+	pictures : 'images/datetoisostring.png'
+},{
+	pictures : 'images/stringtrim.png'
+}]

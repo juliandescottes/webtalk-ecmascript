@@ -1,0 +1,14 @@
+[{
+	title : 'Other Object Extras',
+	template : 'normal',
+	items : 'Object.preventExtensions(obj) : no new properties'
+},{
+	items : 'Object.seal(obj) : preventExtensions + properties no longer configurable'
+},{
+	items : 'Object.freeze(obj) : seal + values can not change' 
+},{
+	items : 'Object.isExtensible(o), Object.isSealed(o), Object.isFrozen(o)' 
+},{
+	template : 'separator',
+	title : 'About Object shims'
+}]

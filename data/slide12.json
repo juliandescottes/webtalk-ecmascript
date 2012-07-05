@@ -1,0 +1,19 @@
+[{
+	title : 'Objects',
+	template : 'separator'
+},{
+	title : 'or rather ...',
+	template : 'separator'
+},{
+	title : 'Meta Objects',
+	template : 'separator'
+},{
+	template : 'normal',
+	items : 'Control interaction with objects'
+},{
+	items : 'Prevent changes on properties'
+},{
+	items : 'Prevent changes on objects'
+},{
+	items : 'Create getters and setters'
+}]

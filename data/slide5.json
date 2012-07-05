@@ -1,0 +1,21 @@
+[{
+	title : 'ECMAScript History',
+	template : 'normal',
+	items : 'ECMAScript 1 : June 1997'
+},{
+	items : 'ECMAScript 2 : June 1998'
+},{
+	items : 'ECMAScript 3 : December 1999'
+},{
+	items : 'ECMAScript 4 : Started around 2007 ...'
+},{
+	overrideItems : true,
+	items : [
+		'ECMAScript 1 : June 1997',
+		'ECMAScript 2 : June 1998',
+		'ECMAScript 3 : December 1999',
+		'ECMAScript 4 : Started around 2007 ... but now canceled',
+	]
+},{
+	items : 'ECMAScript 5 : Released in december 2009'
+}]

@@ -1,0 +1,23 @@
+[{
+	title : 'ECMA ?',
+	template : 'separator'
+},{
+	title : 'ECMA ?',
+	template : 'pic',
+	picture : 'images/acme.jpg'
+},
+{
+	template : 'quote',
+	picture : 'images/ecmalogo.jpg',
+	quote : 'European Computer Manufacturer Association'
+},
+{
+	template : 'pic',
+	picture : 'images/floppy1992.jpg',
+	width : 250
+},
+{
+	picture : 'images/cdaol.jpg',
+	width : 300
+}]
+

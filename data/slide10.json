@@ -1,0 +1,21 @@
+[{
+	title : 'Object Extras',
+	template : 'normal',
+	items : []
+},
+{
+	items : [
+		'Object.create(proto, props)'
+	]
+},{
+	template : 'pictures',
+	pictures : 'images/objectcreate1.png'
+},{
+	pictures : 'images/objectcreate2.png'
+},{
+	template : 'normal',
+	items : [
+		'Object.keys',
+		'Object.getOwnPropertyNames'
+	]
+}]

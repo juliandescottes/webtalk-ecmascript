@@ -1,0 +1,14 @@
+[{
+	title : 'ECMAScript 5',
+	template : 'separator'
+},
+{
+	template : 'summary',
+	items : [
+		'ECMAScript ?',
+		'ES5 Feature : Extras',
+		'ES5 Feature : Meta Objects',
+		'ES5 Feature : Strict Mode',
+		'Links and References'
+	]
+}]

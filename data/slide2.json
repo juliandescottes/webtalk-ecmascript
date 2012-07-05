@@ -1,0 +1,20 @@
+[{
+	title : 'ECMAScript',
+	template : 'separator'
+},{
+	title : 'Back during the Browser War',
+	template : 'pic',
+	picture : 'images/nerdfight.jpg',
+	width : 600
+},
+{
+	title : 'ECMAScript History',
+	template : 'normal',
+	items : 'Netscape creates JavaScript in 1996'
+},{
+	items :	'Microsoft creates JScript the same year'
+},{
+	items :	'Netscape submits JavaScript to ECMA for standardisation'
+},{
+	items : 'ECMA ?'
+}]

@@ -1,0 +1,42 @@
+[{
+	title : 'Strict Mode',
+	template : 'separator'
+},{
+	template : 'pic',
+	picture : 'images/noidea.jpg'
+},{
+	template : 'normal',
+	items : 'Opt-in :  "use strict;", ignored by old browsers'
+},{
+	items : 'Produce more errors for programmatic mistakes'
+},{
+	items : 'Allow more performance optimizations (at least theoratically)'
+},{
+	items : 'Restrict the syntax for future evolutions'
+},{
+	template : 'quote',
+	quote : "I love this job",
+	author : "Anonymous Aria developer",
+	picture : 'images/outlinehunt.png'
+},{
+	template : 'pic',
+	picture : 'images/usestrictundefinedvar1.png'
+},{
+	picture : 'images/usestrictundefinedvar2.png'
+},{
+	picture : 'images/usestrictundefinedvar3.png'
+},{
+	picture : 'images/usestrictduplicateproperty.png'
+},{
+	template : 'normal',
+	title : 'Other Examples',
+	items : '010 != 10'
+},{
+	items : '\'with\' is prohibited (sorry guys :) )'
+},{
+	items : 'Simplified eval and arguments'
+},{
+	items : 'Scope is no longer autoboxed to global object if null or undefined'
+},{
+	items : 'Check MDC "strict" for complete list'
+}]

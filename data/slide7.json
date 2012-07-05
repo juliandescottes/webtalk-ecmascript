@@ -1,0 +1,9 @@
+[{
+	title : 'Ready for ES5 ?',
+	template : 'pic',
+	picture : 'images/browsershare.png'
+},{
+	title : 'Ready for ES5 ?',
+	template : 'pic',
+	picture : 'images/browsershareES5.png'
+}]

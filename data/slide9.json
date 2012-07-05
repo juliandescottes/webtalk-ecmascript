@@ -1,0 +1,46 @@
+[{
+	title : 'Array Extras',
+	template : 'normal',
+	items : []
+},
+{
+	items : [
+		'Array.prototype.indexOf',
+		'Array.prototype.lastIndexOf'
+	]
+},
+{
+	template : 'pic',
+	picture : 'images/arrayindexof.png'
+},
+{
+	template : 'normal',
+	items : [
+		'Array.prototype.every',
+		'Array.prototype.some',
+		'Array.prototype.forEach'
+	]
+},
+{
+	template : 'pic',
+	picture : 'images/arrayforeach.png'
+},
+{
+	template : 'normal',
+	items : [
+		'Array.prototype.map',
+		'Array.prototype.filter',
+		'Array.prototype.reduce',
+		'Array.prototype.reduceRight'
+	]
+},
+{
+	overrideItems : true,
+	items : 'Array.isArray !!!'
+},
+{
+	template : 'pictures',
+	pictures : 'images/isarray.png'
+},{
+	pictures : 'images/isarray2.png' 
+}]

@@ -1,0 +1,25 @@
+[{
+	title : 'Links and References',
+	template : 'separator'
+},{
+	title : 'Links',
+	template : 'normal',
+	items : []
+},{
+	template : 'pic',
+	picture : 'images/links.png'
+},{
+	template : 'normal',
+	fontsize : '20px',
+	items : [
+		'http://ejohn.org/blog/ecmascript-5-strict-mode-json-and-more/',
+		'http://www.3site.eu/es3_to_es5.pdf',
+		'http://davidflanagan.com/Talks/es5/slides.html',
+		'http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf',
+		'https://developer.mozilla.org/en/JavaScript/New_in_JavaScript/1.8.5',
+		'http://ie.microsoft.com/testdrive/HTML5/TryStrict/'
+	]
+},{
+	template : 'separator',
+	title : 'Questions ?'
+}]
